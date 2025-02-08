@@ -22,3 +22,6 @@ netflix-dummy-login/
 └── Images/          # Folder containing images (logo, background)
     └── logo.png     # Netflix logo
     └── image.jpg    # Background image
+
+Here's how it looks
+![Alt text](dummy.png)
