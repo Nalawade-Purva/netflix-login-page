@@ -9,7 +9,7 @@ Background Image: Uses a background image for a realistic Netflix experience.
 Tech Stack
 HTML: For the structure of the page.
 CSS: For styling and layout adjustments.
-JavaScript: (Optional for further enhancements)
+JavaScript: (Optional for further enhancements).
 
 Project Structure
 bash
